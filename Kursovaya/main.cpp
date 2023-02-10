@@ -5,5 +5,7 @@ int main()
 {
 	printf("Hello world!");
 
+	int a = 6;
+
 	return 0;
 }
